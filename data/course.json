@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "45d4d263-af6a-4c82-c4d8-373b1fc5f0ea"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Building Programming Experience: A Lead-In to 6.001",
+  "course_description": "This course will serve as a two-week aggressively gentle introduction to programming for those students who lack background in the field. Specifically targeted at students with little or no programming experience, the course seeks to reach students who intend to take [6.001](courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005) and feel they would struggle because they lack the necessary background. The main focus of the subject will be acquiring programming experience: instruction in programming fundamentals coupled with lots of practice problems. Lots of programming required, but lots of support provided.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.090",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Programming Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
